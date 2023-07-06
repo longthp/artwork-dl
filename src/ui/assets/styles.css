@@ -1,0 +1,13 @@
+body {
+    line-height: 1.6;
+}
+
+.row {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.btn {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
